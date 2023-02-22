@@ -1,2 +1,1 @@
-# Vakan-vis
-Sorgucu
+1.0
